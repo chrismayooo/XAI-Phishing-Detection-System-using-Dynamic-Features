@@ -27,7 +27,7 @@ Dataset sourced from Kaggle: https://www.kaggle.com/datasets/naserabdullahalam/p
 ## Key Insights
 Through experimental analysis, the research found that incorporating **temporal dynamics** significantly improves phishing detection models. More importantly, **explainable AI methods exposed how certain behavioural signals**—such as sender repetition patterns, link timing, or content drift—correlate with malicious intent, offering actionable insights for cybersecurity analysts.
 
-##Key Findings
+## Key Findings
 -Money-related features emerged as top phishing indicators via SHAP/LIME analysis.
 -Data year signals highlighted temporal attack patterns, boosting model interpretability.
 -Visualizations in Lime graphs and Shap bee swarm plots confirm these drive high-confidence detections.
